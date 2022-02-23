@@ -1,6 +1,8 @@
-#1
-#lists = ['python','php','java']
-#print(lists[0:3])
+# #1
+# lists = ['python','php','java']
+# print(lists[0:3])
+a=3
+print(a)
 
 #2
 #num = [5,8,2,1,3,4,5,10,19,20]
