@@ -10,7 +10,7 @@
 #     k = "*"*i
 #     i +=1
 #     print([k])
-# 3
+# # # 3
 # students = {
 # 'Bat': 18, 'Oyun': 22, 'Dulam': 21, 'Suren': 20
 # }
@@ -21,10 +21,10 @@
 #         list.reverse()     
 # print(tuple(list))  
 # 4  
-# import numpy as np
-# arr = np.arange(1, 1001)
-# sum = 0
-# for i in arr:
-#     if i % 3 == 0 or i % 7 == 0:
-#         sum += i 
-# print(sum)
+import numpy as np
+arr = np.arange(1, 1001)
+sum = 0
+for i in arr:
+    if i % 3 == 0 or i % 7 == 0:
+        sum += i 
+print(sum)
